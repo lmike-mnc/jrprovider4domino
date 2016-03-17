@@ -1,0 +1,1 @@
+A combination Java and LotusScript libraries (or set of classes) that would give the capability for Lotus Notes applications to generate report using JasperReports reporting engine.
